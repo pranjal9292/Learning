@@ -3,7 +3,6 @@ package test;
 public class ConstructorwithParameters {
 	int a;
 	String b;
-	
 
 	public ConstructorwithParameters(int a, String b) {
 		super();
@@ -28,7 +27,7 @@ public class ConstructorwithParameters {
 	}
 
 	public static void main(String[] args){
-	ConstructorwithParameters construc= new ConstructorwithParameters(1,"pRanjal");
+	ConstructorwithParameters construc= new ConstructorwithParameters(1,"Pranjal");
 	System.out.println(construc.b);
 	System.out.println(construc.a);
 
