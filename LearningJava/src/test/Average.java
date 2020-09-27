@@ -10,6 +10,6 @@ public class Average {
 		}
 		avg = (sum / (arr.length));
 
-	System.out.println("The average is" + avg);
+	System.out.println("The average is " + avg);
 }
 }
