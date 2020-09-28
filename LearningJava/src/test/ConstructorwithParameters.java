@@ -26,10 +26,10 @@ public class ConstructorwithParameters {
 		this.b = b;
 	}
 
-	public static void main(String[] args){
-	ConstructorwithParameters construc= new ConstructorwithParameters(1,"Pranjal");
-	System.out.println(construc.b);
-	System.out.println(construc.a);
+	public static void main(String[] args) {
+		ConstructorwithParameters construc = new ConstructorwithParameters(1, "Pranjal");
+		System.out.println(construc.b);
+		System.out.println(construc.a);
 
-}
+	}
 }
